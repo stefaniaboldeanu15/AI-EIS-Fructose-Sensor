@@ -1,0 +1,9 @@
+{
+  "model":"Model 1 - EIS features to concentration",
+  "target":"concentration_mM",
+  "n_samples":127,
+  "n_features_used":65,
+  "r2_test":0.7621056499,
+  "rmse_test":1.8062657148,
+  "mae_test":1.1263231895
+}
